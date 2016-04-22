@@ -1,0 +1,6 @@
+
+
+object test {
+  
+  print("Hello")
+}
